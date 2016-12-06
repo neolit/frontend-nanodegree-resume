@@ -1,3 +1,1 @@
-/*
 $("#main").append("Dawid Kania");
- */
